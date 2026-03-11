@@ -8,8 +8,9 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <br>
   <br>
-  <p><strong>Instructor: [Ashwani Mishra]</strong></p>
-    <p><strong>[Assistant Professor,CSE ]</strong></p>
+  <p><strong>[Ashwani Mishra]</strong><br>
+  <em>Assistant Professor, CSE Department</em><br>
+  <em>Parul University</em></p>
   <p><em>B.Tech Semester 6 - Comprehensive Guide to Full-Stack JavaScript Development</em></p>
   <hr>
 </div>
@@ -32,16 +33,16 @@ To get the most out of this course, you should have a basic understanding of:
 
 This repository is structured to follow the official syllabus, broken down by weekly topics and projects.
 
-| Sr. | Topic | Weightage (%) | Teaching Hours | Key Concepts | Code/Project |
-| :-- | :--- | :---: | :---: | :--- | :---: |
-| **1** | **Introduction to Web Development & the MEAN Stack** | 4 | 2 | Overview of Web Dev, MEAN Stack Intro, Environment Setup | [Link to Setup Guides](./01-intro) |
-| **2** | **MongoDB** | 20 | 10 | NoSQL Intro, CRUD Operations, Indexing, Data Modeling | [Link to MongoDB Scripts](./02-mongodb) |
-| **3** | **Node.js & Express.js** | 20 | 10 | Node.js Runtime, Express.js Framework, Routing, Middleware, Authentication (Passport.js) | [Link to Node/Express APIs](./03-node-express) |
-| **4** | **Angular** | 30 | 13 | Components, Modules, Services, Data Binding, Routing, HTTP Client, Observables | [Link to Angular Frontend](./04-angular) |
-| **5** | **Integration** | 10 | 3 | Connecting Angular with Express API, User Management, WebSockets (Real-time Data) | [Link to Full-Stack Integration](./05-integration) |
-| **6** | **Deployment & Best Practices** | 6 | 3 | Hosting, Security, Performance Optimization, CI/CD, Version Control | [Deployment Guides](./06-deployment) |
-| **7** | **Final Project** | 10 | 4 | Build a Complete Full-Stack Application from Scratch | [Link to Final Projects](./07-final-project) |
-| | **Total** | **100** | **45** | | |
+| Sr. | Topic | Weightage (%) | Teaching Hours | Key Concepts |
+| :-- | :--- | :---: | :---: | :--- |
+| **1** | **Introduction to Web Development & the MEAN Stack** | 4 | 2 | Overview of Web Dev, MEAN Stack Intro, Environment Setup |
+| **2** | **MongoDB** | 20 | 10 | NoSQL Intro, CRUD Operations, Indexing, Data Modeling |
+| **3** | **Node.js & Express.js** | 20 | 10 | Node.js Runtime, Express.js Framework, Routing, Middleware, Authentication (Passport.js) |
+| **4** | **Angular** | 30 | 13 | Components, Modules, Services, Data Binding, Routing, HTTP Client, Observables |
+| **5** | **Integration** | 10 | 3 | Connecting Angular with Express API, User Management, WebSockets (Real-time Data) |
+| **6** | **Deployment & Best Practices** | 6 | 3 | Hosting, Security, Performance Optimization, CI/CD, Version Control |
+| **7** | **Final Project** | 10 | 4 | Build a Complete Full-Stack Application from Scratch |
+| | **Total** | **100** | **45** | |
 
 ## 🛠️ Technologies & Frameworks (The MEAN Stack)
 
@@ -58,4 +59,14 @@ By the end of this course, students will be able to:
 2.  **Build and deploy** full-stack web applications from scratch.
 3.  **Apply web development best practices**, including security, performance optimization, and testing.
 4.  **Develop a portfolio of real-world projects** and contribute to open-source initiatives.
+
+## 📖 Recommended Text & References
+
+### Textbook
+*   **"MEAN Web Development"** by Amos Q. Haviv (Publisher: Packt Publishing)
+
+### Reference Books
+*   **"Learning Node.js: A Hands-On Guide to Building Web Applications in JavaScript"** by Marc Wandschneider (Publisher: Addison-Wesley Professional)
+*   **"AngularJS: Up and Running: Enhanced Productivity with Structured Web Apps"** by Shyam Seshadri and Brad Green (Publisher: O'Reilly Media)
+*   **"MongoDB: The Definitive Guide: Powerful and Scalable Data Storage"** by Shannon Bradshaw, Kristina Chodorow, and Eoin Brazil (Publisher: O'Reilly Media)
 
